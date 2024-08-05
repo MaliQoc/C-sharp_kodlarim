@@ -1,0 +1,10 @@
+C:\Users\Ali Koç\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.csproj.AssemblyReference.cache
+C:\Users\Ali Koç\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Koç\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.AssemblyInfoInputs.cache
+C:\Users\Ali Koç\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.AssemblyInfo.cs
+C:\Users\Ali Koç\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.csproj.CoreCompileInputs.cache
+C:\Users\Ali Koç\Desktop\YAZILIM\Benim çalışmalarım (C#)\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.csproj.AssemblyReference.cache
+C:\Users\Ali Koç\Desktop\YAZILIM\Benim çalışmalarım (C#)\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Koç\Desktop\YAZILIM\Benim çalışmalarım (C#)\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.AssemblyInfoInputs.cache
+C:\Users\Ali Koç\Desktop\YAZILIM\Benim çalışmalarım (C#)\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.AssemblyInfo.cs
+C:\Users\Ali Koç\Desktop\YAZILIM\Benim çalışmalarım (C#)\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.csproj.CoreCompileInputs.cache

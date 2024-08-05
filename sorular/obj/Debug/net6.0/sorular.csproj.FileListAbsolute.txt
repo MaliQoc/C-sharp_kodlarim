@@ -1,0 +1,45 @@
+C:\Users\Ali Koç\Desktop\sorular\obj\Debug\net6.0\sorular.csproj.AssemblyReference.cache
+C:\Users\Ali Koç\Desktop\sorular\obj\Debug\net6.0\sorular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Koç\Desktop\sorular\obj\Debug\net6.0\sorular.AssemblyInfoInputs.cache
+C:\Users\Ali Koç\Desktop\sorular\obj\Debug\net6.0\sorular.AssemblyInfo.cs
+C:\Users\Ali Koç\Desktop\sorular\obj\Debug\net6.0\sorular.csproj.CoreCompileInputs.cache
+C:\Users\Ali Koç\Desktop\sorular\bin\Debug\net6.0\sorular.exe
+C:\Users\Ali Koç\Desktop\sorular\bin\Debug\net6.0\sorular.deps.json
+C:\Users\Ali Koç\Desktop\sorular\bin\Debug\net6.0\sorular.runtimeconfig.json
+C:\Users\Ali Koç\Desktop\sorular\bin\Debug\net6.0\sorular.dll
+C:\Users\Ali Koç\Desktop\sorular\bin\Debug\net6.0\sorular.pdb
+C:\Users\Ali Koç\Desktop\sorular\obj\Debug\net6.0\sorular.dll
+C:\Users\Ali Koç\Desktop\sorular\obj\Debug\net6.0\refint\sorular.dll
+C:\Users\Ali Koç\Desktop\sorular\obj\Debug\net6.0\sorular.pdb
+C:\Users\Ali Koç\Desktop\sorular\obj\Debug\net6.0\sorular.genruntimeconfig.cache
+C:\Users\Ali Koç\Desktop\sorular\obj\Debug\net6.0\ref\sorular.dll
+C:\Users\Ali Koç\Desktop\YAZILIM\Benim çalışmalarım (C#)\sorular\bin\Debug\net6.0\sorular.exe
+C:\Users\Ali Koç\Desktop\YAZILIM\Benim çalışmalarım (C#)\sorular\bin\Debug\net6.0\sorular.deps.json
+C:\Users\Ali Koç\Desktop\YAZILIM\Benim çalışmalarım (C#)\sorular\bin\Debug\net6.0\sorular.runtimeconfig.json
+C:\Users\Ali Koç\Desktop\YAZILIM\Benim çalışmalarım (C#)\sorular\bin\Debug\net6.0\sorular.dll
+C:\Users\Ali Koç\Desktop\YAZILIM\Benim çalışmalarım (C#)\sorular\bin\Debug\net6.0\sorular.pdb
+C:\Users\Ali Koç\Desktop\YAZILIM\Benim çalışmalarım (C#)\sorular\obj\Debug\net6.0\sorular.csproj.AssemblyReference.cache
+C:\Users\Ali Koç\Desktop\YAZILIM\Benim çalışmalarım (C#)\sorular\obj\Debug\net6.0\sorular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Koç\Desktop\YAZILIM\Benim çalışmalarım (C#)\sorular\obj\Debug\net6.0\sorular.AssemblyInfoInputs.cache
+C:\Users\Ali Koç\Desktop\YAZILIM\Benim çalışmalarım (C#)\sorular\obj\Debug\net6.0\sorular.AssemblyInfo.cs
+C:\Users\Ali Koç\Desktop\YAZILIM\Benim çalışmalarım (C#)\sorular\obj\Debug\net6.0\sorular.csproj.CoreCompileInputs.cache
+C:\Users\Ali Koç\Desktop\YAZILIM\Benim çalışmalarım (C#)\sorular\obj\Debug\net6.0\sorular.dll
+C:\Users\Ali Koç\Desktop\YAZILIM\Benim çalışmalarım (C#)\sorular\obj\Debug\net6.0\refint\sorular.dll
+C:\Users\Ali Koç\Desktop\YAZILIM\Benim çalışmalarım (C#)\sorular\obj\Debug\net6.0\sorular.pdb
+C:\Users\Ali Koç\Desktop\YAZILIM\Benim çalışmalarım (C#)\sorular\obj\Debug\net6.0\sorular.genruntimeconfig.cache
+C:\Users\Ali Koç\Desktop\YAZILIM\Benim çalışmalarım (C#)\sorular\obj\Debug\net6.0\ref\sorular.dll
+C:\Users\Ali\Desktop\YAZILIM\Benim çalışmalarım (C#)\sorular\bin\Debug\net6.0\sorular.exe
+C:\Users\Ali\Desktop\YAZILIM\Benim çalışmalarım (C#)\sorular\bin\Debug\net6.0\sorular.deps.json
+C:\Users\Ali\Desktop\YAZILIM\Benim çalışmalarım (C#)\sorular\bin\Debug\net6.0\sorular.runtimeconfig.json
+C:\Users\Ali\Desktop\YAZILIM\Benim çalışmalarım (C#)\sorular\bin\Debug\net6.0\sorular.dll
+C:\Users\Ali\Desktop\YAZILIM\Benim çalışmalarım (C#)\sorular\bin\Debug\net6.0\sorular.pdb
+C:\Users\Ali\Desktop\YAZILIM\Benim çalışmalarım (C#)\sorular\obj\Debug\net6.0\sorular.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\YAZILIM\Benim çalışmalarım (C#)\sorular\obj\Debug\net6.0\sorular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\Desktop\YAZILIM\Benim çalışmalarım (C#)\sorular\obj\Debug\net6.0\sorular.AssemblyInfoInputs.cache
+C:\Users\Ali\Desktop\YAZILIM\Benim çalışmalarım (C#)\sorular\obj\Debug\net6.0\sorular.AssemblyInfo.cs
+C:\Users\Ali\Desktop\YAZILIM\Benim çalışmalarım (C#)\sorular\obj\Debug\net6.0\sorular.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\YAZILIM\Benim çalışmalarım (C#)\sorular\obj\Debug\net6.0\sorular.dll
+C:\Users\Ali\Desktop\YAZILIM\Benim çalışmalarım (C#)\sorular\obj\Debug\net6.0\refint\sorular.dll
+C:\Users\Ali\Desktop\YAZILIM\Benim çalışmalarım (C#)\sorular\obj\Debug\net6.0\sorular.pdb
+C:\Users\Ali\Desktop\YAZILIM\Benim çalışmalarım (C#)\sorular\obj\Debug\net6.0\sorular.genruntimeconfig.cache
+C:\Users\Ali\Desktop\YAZILIM\Benim çalışmalarım (C#)\sorular\obj\Debug\net6.0\ref\sorular.dll

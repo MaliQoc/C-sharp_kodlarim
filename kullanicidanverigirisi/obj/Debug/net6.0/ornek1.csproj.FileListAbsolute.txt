@@ -1,0 +1,30 @@
+C:\Users\Ali Koç\Desktop\ornek1\bin\Debug\net6.0\ornek1.exe
+C:\Users\Ali Koç\Desktop\ornek1\bin\Debug\net6.0\ornek1.deps.json
+C:\Users\Ali Koç\Desktop\ornek1\bin\Debug\net6.0\ornek1.runtimeconfig.json
+C:\Users\Ali Koç\Desktop\ornek1\bin\Debug\net6.0\ornek1.dll
+C:\Users\Ali Koç\Desktop\ornek1\bin\Debug\net6.0\ornek1.pdb
+C:\Users\Ali Koç\Desktop\ornek1\obj\Debug\net6.0\ornek1.csproj.AssemblyReference.cache
+C:\Users\Ali Koç\Desktop\ornek1\obj\Debug\net6.0\ornek1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Koç\Desktop\ornek1\obj\Debug\net6.0\ornek1.AssemblyInfoInputs.cache
+C:\Users\Ali Koç\Desktop\ornek1\obj\Debug\net6.0\ornek1.AssemblyInfo.cs
+C:\Users\Ali Koç\Desktop\ornek1\obj\Debug\net6.0\ornek1.csproj.CoreCompileInputs.cache
+C:\Users\Ali Koç\Desktop\ornek1\obj\Debug\net6.0\ornek1.dll
+C:\Users\Ali Koç\Desktop\ornek1\obj\Debug\net6.0\refint\ornek1.dll
+C:\Users\Ali Koç\Desktop\ornek1\obj\Debug\net6.0\ornek1.pdb
+C:\Users\Ali Koç\Desktop\ornek1\obj\Debug\net6.0\ornek1.genruntimeconfig.cache
+C:\Users\Ali Koç\Desktop\ornek1\obj\Debug\net6.0\ref\ornek1.dll
+C:\Users\Ali Koç\Desktop\YAZILIM\Benim çalışmalarım (C#)\kullanicidanverigirisi\bin\Debug\net6.0\ornek1.exe
+C:\Users\Ali Koç\Desktop\YAZILIM\Benim çalışmalarım (C#)\kullanicidanverigirisi\bin\Debug\net6.0\ornek1.deps.json
+C:\Users\Ali Koç\Desktop\YAZILIM\Benim çalışmalarım (C#)\kullanicidanverigirisi\bin\Debug\net6.0\ornek1.runtimeconfig.json
+C:\Users\Ali Koç\Desktop\YAZILIM\Benim çalışmalarım (C#)\kullanicidanverigirisi\bin\Debug\net6.0\ornek1.dll
+C:\Users\Ali Koç\Desktop\YAZILIM\Benim çalışmalarım (C#)\kullanicidanverigirisi\bin\Debug\net6.0\ornek1.pdb
+C:\Users\Ali Koç\Desktop\YAZILIM\Benim çalışmalarım (C#)\kullanicidanverigirisi\obj\Debug\net6.0\ornek1.csproj.AssemblyReference.cache
+C:\Users\Ali Koç\Desktop\YAZILIM\Benim çalışmalarım (C#)\kullanicidanverigirisi\obj\Debug\net6.0\ornek1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Koç\Desktop\YAZILIM\Benim çalışmalarım (C#)\kullanicidanverigirisi\obj\Debug\net6.0\ornek1.AssemblyInfoInputs.cache
+C:\Users\Ali Koç\Desktop\YAZILIM\Benim çalışmalarım (C#)\kullanicidanverigirisi\obj\Debug\net6.0\ornek1.AssemblyInfo.cs
+C:\Users\Ali Koç\Desktop\YAZILIM\Benim çalışmalarım (C#)\kullanicidanverigirisi\obj\Debug\net6.0\ornek1.csproj.CoreCompileInputs.cache
+C:\Users\Ali Koç\Desktop\YAZILIM\Benim çalışmalarım (C#)\kullanicidanverigirisi\obj\Debug\net6.0\ornek1.dll
+C:\Users\Ali Koç\Desktop\YAZILIM\Benim çalışmalarım (C#)\kullanicidanverigirisi\obj\Debug\net6.0\refint\ornek1.dll
+C:\Users\Ali Koç\Desktop\YAZILIM\Benim çalışmalarım (C#)\kullanicidanverigirisi\obj\Debug\net6.0\ornek1.pdb
+C:\Users\Ali Koç\Desktop\YAZILIM\Benim çalışmalarım (C#)\kullanicidanverigirisi\obj\Debug\net6.0\ornek1.genruntimeconfig.cache
+C:\Users\Ali Koç\Desktop\YAZILIM\Benim çalışmalarım (C#)\kullanicidanverigirisi\obj\Debug\net6.0\ref\ornek1.dll
