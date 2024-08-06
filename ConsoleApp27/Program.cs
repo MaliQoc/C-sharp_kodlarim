@@ -71,5 +71,5 @@
     C# programlama dilinde tanımlanan ve metot olarak adlandırılan işlevlerin bellek adresini tutmak için kullanılan yapıya delegate veya temsilci denir.
     C# delegate yapısı C ve C++ dillerinde yer alan function pointer veya fonksiyon göstericilerine benzemektedir.
     Bilgisayar üzerinde işlem yapan her şey (değişkenler, sınıflar, metotlar) bellek üzerinde tutulur.
-    Bizler genellikle bellekte tutulan değişken değerleri üzerinde işlem yaparız.
+    Bizler genellikle bellekte tutulan değişken değerleri üzerinde işlem yaparız. */
 }
