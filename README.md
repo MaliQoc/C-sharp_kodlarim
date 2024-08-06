@@ -1,4 +1,4 @@
-C#-dili
+# C#-dili
 
 2022 yılında ilk olarak okulda 'Nesneye Yönelik Programlama' dersinde görerek öğrenmeye başladığım C# dilini öğrenirken yazdığım kodları sizlerle paylaşıyorum. Sonda 3 tane kodu okulda hocanın verdiği basit soru örneklerinden derleyip yazmıştım, ekledim.
 
