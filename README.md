@@ -28,6 +28,8 @@ Nesneye yönelik programlama, işlevsel programlama ve eşzamansız programlama 
 Ben BTK Akademideki 'C#' kursunu alarak öğrenmeye başlamıştım. Engin Demiroğ hocanın anlatımıyla takip edebilirsiniz.
 https://www.btkakademi.gov.tr/portal/course/c-7008
 
+Murat Yücedağ (C# playlisti) https://www.youtube.com/playlist?list=PLKnjBHu2xXNPkeQtMOJczzEO6LK5OV35K
+
 Şu an okumakta olduğum Tekirdağ Namık Kemal Üniversitesi - Çorlu Mühendislik Fakültesi öğretim üyelerinden Prof. Dr. Erdinç Uzun hocam 2. sınıftayken 'Nesneye Yönelik Programlama' dersinde C# üzerinden dersi anlatmıştı.
 Kendisinin Youtube kanalını da buraya bırakıyorum: https://www.youtube.com/watch?v=VPmmfmpyUl8&list=PLq4n-UisAJbKVJwIFmhCJlqamNSnZCgaT
 Websitesi: https://erdincuzun.com/ Bu sitede C# tan çok daha fazlası olduğunu incelediğinizde göreceksiniz.
